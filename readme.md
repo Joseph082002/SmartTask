@@ -1085,7 +1085,7 @@ struct guide {
 
 ### 5.1 上传atomgit开源
 ![atomgit](img/atomgit.png)
-- 网址：https://atomgit.com/zhouzheng/SmartTask/edit/master
+- 网址：https://atomgit.com/zhouzheng/SmartTask
 
 ### 5.1 上传github开源
 ![github](img/github.png)
