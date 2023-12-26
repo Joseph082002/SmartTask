@@ -1,0 +1,12 @@
+{
+  "src": [
+    "pages/Index",
+    "pages/About",
+    "pages/OOBE",
+    "pages/welcomePage",
+    "pages/illustrate",
+    "pages/LoginPage",
+    "pages/MainPage",
+    "pages/registerPage"
+  ]
+}

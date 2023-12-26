@@ -1,0 +1,41 @@
+{
+  "app": {
+    "compileSdkVersion": 9,
+    "compatibleSdkVersion": 9,
+    "products": [
+      {
+        "name": "default",
+        "signingConfig": "default"
+      }
+    ],
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "HarmonyOS",
+        "material": {
+          "certpath": "C:\\Users\\velpr\\.ohos\\config\\auto_debug_homework-tasklist-v2-master_top.handwer.homeworktasklist_30086000637469173.cer",
+          "storePassword": "0000001AF0E8B46C60B910B58DCB56F25EE1EFF847C84DFD710BE8A204D518BBC9D89247DD50160362AE",
+          "keyAlias": "debugKey",
+          "keyPassword": "0000001AFC1C4335626C3930B41F4CDFA692C9D4328C4E4AB31CE4B01A0BC3282B3D4B812523151807E2",
+          "profile": "C:\\Users\\velpr\\.ohos\\config\\auto_debug_homework-tasklist-v2-master_top.handwer.homeworktasklist_30086000637469173.p7b",
+          "signAlg": "SHA256withECDSA",
+          "storeFile": "C:\\Users\\velpr\\.ohos\\config\\auto_debug_homework-tasklist-v2-master_top.handwer.homeworktasklist_30086000637469173.p12"
+        }
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}
