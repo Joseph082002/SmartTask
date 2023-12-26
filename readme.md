@@ -1080,14 +1080,14 @@ struct guide {
 ## 五.项目进展
 
 ### 5.1 上传gitee开源
-
-#### 
+![gitee](img/gitee.png)
+- 网址：https://gitee.com/zhouzheng820/smart-task/tree/master
 
 ### 5.1 上传atomgit开源
-
-#### 
+![atomgit](img/atomgit.png)
+- 网址：https://atomgit.com/zhouzheng/SmartTask/edit/master
 
 ### 5.1 上传github开源
-
-#### 
+![github](img/github.png)
+- 网址：https://github.com/Joseph082002/SmartTask/tree/master
 
