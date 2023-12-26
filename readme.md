@@ -24,7 +24,7 @@ SmartTask智能待办系统
 
 ### 1.4 截止时间查询
 
-![hp4](img/hp4-1703605771408.png)
+![hp4](img/hp4.png)
 
 - 在截止时间页，可查看待办紧急情况。
 
@@ -48,7 +48,7 @@ SmartTask智能待办系统
 
 - ### 2.2 项目初步设计流程图
 
-  ![image-20231227001844175](img/image-20231227001844175.png)
+  ![流程图](img/流程图.jpg)
 
 
 
@@ -62,7 +62,7 @@ SmartTask智能待办系统
 
 ### 3.2 loginPage
 
-![loginPage](img/loginPage-1703606794574.png)
+![loginPage](img/loginPage.png)
 
 ### 3.3 registerPage
 
@@ -78,7 +78,7 @@ SmartTask智能待办系统
 
 ### 3.6 homePage
 
-![hp1](img/hp1-1703606942505.png)
+![hp1](img/hp1.png)
 
 
 
